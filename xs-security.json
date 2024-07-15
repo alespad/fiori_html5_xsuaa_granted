@@ -1,0 +1,9 @@
+{
+  "xsappname": "testgrantedapp",
+  "tenant-mode": "dedicated",
+  "description": "Security profile of called application",
+  "foreign-scope-references": [
+    "$XSAPPNAME(application,testprotectedapp).admin"
+  ],
+  "role-templates": []
+}
