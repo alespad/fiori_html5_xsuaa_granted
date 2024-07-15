@@ -21,6 +21,9 @@
 
 An SAP Fiori application.
 
+Reference Link as granted app to use a scope already defined from a grantor app
+https://community.sap.com/t5/technology-blogs-by-sap/how-to-call-protected-app-from-external-app-as-external-user-with-scope/ba-p/13440813
+
 ### Starting the generated app
 
 -   This app has been generated using the SAP Fiori tools - App Generator, as part of the SAP Fiori tools suite.  In order to launch the generated app, simply run the following from the generated app root folder:
